@@ -1,7 +1,5 @@
 # Wine Quality Clustering
 
-![Wine Quality Banner](images/wine_banner.png)
-
 ## Overview
 
 This project performs unsupervised machine learning clustering analysis on wine quality data to identify distinct groups of wines based on their physicochemical properties. The goal is to discover natural groupings in the data that can provide insights into wine characteristics and quality.
@@ -102,7 +100,7 @@ The silhouette score measures how similar an object is to its own cluster compar
 
 **Optimal Number of Clusters: 3** (highest silhouette score and lowest Davies-Bouldin index)
 
-![Elbow Method](images/elbow_method.png)
+![Elbow Method]("output.png")
 
 ![Silhouette Analysis](images/silhouette_analysis.png)
 
