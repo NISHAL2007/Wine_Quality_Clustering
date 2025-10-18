@@ -100,9 +100,9 @@ The silhouette score measures how similar an object is to its own cluster compar
 
 **Optimal Number of Clusters: 3** (highest silhouette score and lowest Davies-Bouldin index)
 
-![Elbow Method]("output.png")
+Elbow Method and Silhouette Analysis
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/ab358b37-8260-439e-8c07-4fb6dde54304" />
 
-![Silhouette Analysis](images/silhouette_analysis.png)
 
 ### Cluster Characteristics
 
@@ -110,7 +110,6 @@ The silhouette score measures how similar an object is to its own cluster compar
 - **Cluster 1**: Moderate alcohol, balanced acidity
 - **Cluster 2**: Lower alcohol, higher acidity
 
-![Cluster Visualization](images/cluster_plot.png)
 
 ## Algorithm Selection
 
@@ -146,7 +145,9 @@ The project includes several visualizations:
 - Feature distribution across clusters
 - Correlation heatmaps
 
-![PCA Visualization](images/pca_clusters.png)
+PCA Visualization:
+<img width="689" height="547" alt="image" src="https://github.com/user-attachments/assets/1e64208e-dd9e-41b6-91c6-b64606006053" />
+
 
 ## Contributing
 
@@ -154,11 +155,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
-NISHAL2007
+Nishal A T
 
 ## Acknowledgments
 
