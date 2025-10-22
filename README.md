@@ -1,5 +1,7 @@
 # Wine Quality Clustering
 
+## Application link: https://huggingface.co/spaces/Nishal07/Wine_Dataset-Clustering
+
 ## Overview
 
 This project performs unsupervised machine learning clustering analysis on wine quality data to identify distinct groups of wines based on their physicochemical properties. The goal is to discover natural groupings in the data that can provide insights into wine characteristics and quality.
